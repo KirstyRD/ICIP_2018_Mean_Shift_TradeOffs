@@ -1,5 +1,7 @@
 # ICIP_2018_Mean_Shift_TradeOffs
 
+## [PARALLEL MEAN SHIFT ACCURACY AND PERFORMANCE TRADE-OFFS](https://www.macs.hw.ac.uk/~rs46/papers/icip2018/icip-2018.pdf)
+
 The following 3 files contain source code for meanshift segmentation, clustering
 and merging only and clustering only respectively:
 
